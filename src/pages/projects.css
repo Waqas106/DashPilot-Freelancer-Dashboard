@@ -1,0 +1,71 @@
+.projects-section{
+    padding: 25px;
+}
+.filter-section{
+    padding: 20px;
+    background-color: #ffffff;
+    margin: 20px 0;
+    box-shadow: 0 0 1px 1px rgba(0, 0, 0,0.1);
+    border-radius: 12px;
+}
+.filter-section select{
+    padding: 5px;
+    margin: 0 8px;
+}
+
+.project-card{
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0,0.1);
+    border-radius: 12px;
+    margin: 15px 0;
+    width: 100%;
+}
+.project-title{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.prj{
+    padding-bottom: 8px;
+    display: flex;
+    align-items: center;
+}
+.project-card span{
+    margin-right: 20px;
+    font-size: 13px;
+    color: rgb(86, 85, 85);
+}
+.pgh{
+    font-size: 15px;
+}
+.project-card a{
+    font-size: 13px;
+    color: rgb(46, 46, 207);
+    cursor: pointer;
+    display: block;
+    margin-top: 10px;
+}
+.status{
+    font-size: 13px;
+    padding: 7px;
+    border-radius: 20px;
+   align-content: center;
+    height: 30px;
+}
+.completed{
+     color: blue;
+   background-color: #c7e0ff;
+}
+.active{
+     color: green;
+    background-color: rgb(199, 236, 199);
+}
+.in-review{
+     color: rgba(87, 87, 2, 0.452);
+    background-color: rgb(240, 240, 169);
+}
+.planning{
+    color: gray;
+    background-color: rgb(244, 241, 241);
+}

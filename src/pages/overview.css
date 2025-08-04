@@ -1,0 +1,96 @@
+.stats-section{
+    padding: 25px;
+}
+.stats-cards{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+}
+.st-card{
+    padding: 15px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 14px;
+    box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+.st-icon{
+    font-size: 20px;
+    padding: 13px;
+    border-radius: 10px;
+}
+.folder{
+    color: blue;
+   background-color: #c7e0ff;
+}
+.dollar{
+    color: green;
+    background-color: rgb(199, 236, 199);
+}
+.list{
+    color: rgba(87, 87, 2, 0.452);
+    background-color: rgb(240, 240, 169);
+}
+.users{
+    color: purple;
+    background-color: rgb(247, 213, 247);
+}
+
+.smy-cards{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 20px;
+    padding: 20px 0;
+}
+.earnings, .project{
+    background-color: #ffffff;
+    box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    height: 350px;
+    border-radius: 14px;
+}
+
+.activity-section{
+    background-color: #ffffff;
+    box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.1);
+    border-radius: 14px;
+}
+.activity-section h3{
+    padding: 20px;
+    border-bottom: 2px solid #E5E7EB;
+}
+.activity-cards{
+    padding: 20px;
+    gap: 25px;
+}
+.act-card{
+    background-color: #F9FAFB;
+    padding: 13px;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+    border-radius: 12px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
+}
+.hd{
+    display: flex;
+    align-items: center;
+}
+.activity{
+    padding: 10px;
+    border-radius: 50%;
+    margin-right: 12px;
+}
+.Active{
+    color: green;
+    background-color: rgb(199, 236, 199);
+}
+.message{
+     color: blue;
+   background-color: #c7e0ff;
+}
+.in-review{
+    color: rgba(87, 87, 2, 0.452);
+    background-color: rgb(240, 240, 169);
+}
