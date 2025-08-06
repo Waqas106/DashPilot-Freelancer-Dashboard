@@ -29,5 +29,17 @@ DashPilot is a modern, responsive Freelancer Dashboard application designed to h
 
 ---
 
-## 📁 Folder Structure (Simplified)
+## 🔧 Future Enhancements
+🔐 Authentication & User Roles
+
+🌐 Backend Integration (Node.js / Firebase)
+
+📤 File Uploads & Client Attachments
+
+📊 Analytics Page with Charts
+
+---
+
+## 🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to improve.
 
