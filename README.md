@@ -1,12 +1,33 @@
-# React + Vite
+# DashPilot – Freelancer Dashboard App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+DashPilot is a modern, responsive Freelancer Dashboard application designed to help freelancers manage projects, track earnings, monitor tasks, and communicate efficiently. Built using React.js and React Router, it combines clean design with dynamic navigation and functionality to deliver an intuitive project management experience.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 📊 **Dashboard Overview** – Track performance metrics, revenue, and active projects at a glance.
+- ✅ **Project Management** – View project statuses (Active, Pending, Completed, etc.), deadlines, and payments.
+- 🔔 **Notification Center** – Stay updated with real-time alerts for project updates, messages, and milestones.
+- 🗂️ **Category Filters** – Quickly filter projects based on their current status or category.
+- 🔍 **Search Functionality** – Easily find any project or client.
+- 💬 **Message Center** – Preview communication related to each project.
+- 📅 **Due Dates & Reminders** – Keep track of upcoming tasks and due dates.
+- 📱 **Responsive Design** – Fully responsive for desktop, tablet, and mobile views.
+- 🎨 **Custom Icons & Colors** – Visual project cues through iconography and color coding.
+- 🧭 **Client-side Routing** – Smooth and fast page transitions with React Router.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies Used
+
+- **React.js** – Frontend framework
+- **React Router DOM** – SPA routing and navigation
+- **CSS Modules / SCSS** – Component-level styling
+- **FontAwesome** – Icons for UI enhancement
+- **React Hooks** – For state and lifecycle management
+- **Mock Data Integration** – Easily extendable to connect real APIs
+
+---
+
+## 📁 Folder Structure (Simplified)
+
