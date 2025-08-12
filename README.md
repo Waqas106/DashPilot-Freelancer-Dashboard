@@ -36,7 +36,6 @@ DashPilot is a modern, responsive Freelancer Dashboard application designed to h
 
 📤 File Uploads & Client Attachments
 
-📊 Analytics Page with Charts
 
 ---
 
@@ -45,3 +44,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 
 ## Live Preview
+
+https://waqas106.github.io/DashPilot-Freelancer-Dashboard/
